@@ -1,9 +1,6 @@
 # CRUD for Angular Material Table
 
-Project showcasing my CRUD (Create, Read, Update, Delete) implementation on Angular 12's Mat-Table. Most importantly frontend updates accordingly
-with operations. 
-
-Code in action:
+Project showcasing CRUD (Create, Read, Update, Delete) implementation using Angular 12 and Mat-Table. 
 
 ![Alt Text](https://i.imgur.com/QcXMtzK.gif)
 
